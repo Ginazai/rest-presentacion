@@ -1,0 +1,3 @@
+-Inserte el folder descomprimido en htdocs 
+-Asegurese que ambas carpetas se encuentre bajo la carpeta "rest-presentacion"
+-Cualquier error en la ubicacion de una de las dos aplicaciones puede causar problemas de resolucion de ruta
